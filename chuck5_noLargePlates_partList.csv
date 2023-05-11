@@ -1,0 +1,85 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11212,6039176,11212,Plate 3 x 3,85,72,Dark Bluish Gray,Solid Colors,6,1.25
+14719,6133722,14719,Tile 2 x 2 Corner,11,0,Black,Solid Colors,10,0.43
+23949,6230281,23949,Slope 45 2 x 6,85,72,Dark Bluish Gray,Solid Colors,1,2.9
+2431,243126,2431,Tile 1 x 4,11,0,Black,Solid Colors,4,0.54
+2431pb567,,2431pb567,Tile 1 x 4 with 'R682 AHS' License Plate on White Background Pattern (Sticker) - Set 10242,11,0,Black,Solid Colors,1,0.59
+2445,244523,2445,Plate 2 x 12,7,1,Blue,Solid Colors,2,3.5
+2445,4211067,2445,Plate 2 x 12,85,72,Dark Bluish Gray,Solid Colors,2,3.5
+2456,4181137,2456,Brick 2 x 6,9,7,Light Gray,Solid Colors,2,3.74
+25269,6172383,25269,"Tile, Round 1 x 1 Quarter",11,0,Black,Solid Colors,12,0.1
+2780,6279875,2780,"Technic, Pin with Friction Ridges Lengthwise, Staggered, with or without Center Slots",11,0,Black,Solid Colors,32,0.16
+27925,6265306,27925,"Tile, Round Corner 2 x 2 Macaroni",85,72,Dark Bluish Gray,Solid Colors,2,0
+27925,6191630,27925,"Tile, Round Corner 2 x 2 Macaroni",11,0,Black,Solid Colors,12,0.3
+29119,6181713,29119,Wedge 2 x 1 with Stud Notch Right,11,0,Black,Solid Colors,1,0.23
+29120,6181720,29120,Wedge 2 x 1 with Stud Notch Left,11,0,Black,Solid Colors,1,0.23
+3004,300423,3004,Brick 1 x 2,7,1,Blue,Solid Colors,2,0.8
+3005,300523,3005,Brick 1 x 1,7,1,Blue,Solid Colors,4,0.44
+3005,300502,3005,Brick 1 x 1,9,7,Light Gray,Solid Colors,2,0.44
+3006,4615600,3006,Brick 2 x 10,7,1,Blue,Solid Colors,14,5.75
+3009,300923,3009,Brick 1 x 6,7,1,Blue,Solid Colors,2,2.42
+3009,300902,3009,Brick 1 x 6,9,7,Light Gray,Solid Colors,1,2.42
+3010,301023,3010,Brick 1 x 4,7,1,Blue,Solid Colors,2,1.64
+3010,4211103,3010,Brick 1 x 4,85,72,Dark Bluish Gray,Solid Colors,2,1.64
+3021,4211043,3021,Plate 2 x 3,85,72,Dark Bluish Gray,Solid Colors,3,0.93
+3021,302102,3021,Plate 2 x 3,9,7,Light Gray,Solid Colors,6,0.93
+3021,302126,3021,Plate 2 x 3,11,0,Black,Solid Colors,12,0.93
+3021,302123,3021,Plate 2 x 3,7,1,Blue,Solid Colors,9,0.93
+3023,4539097,3023,Plate 1 x 2,59,320,Dark Red,Solid Colors,2,0.36
+3023,6028736,3023,Plate 1 x 2,110,191,Bright Light Orange,Solid Colors,2,0.36
+3024,302426,3024,Plate 1 x 1,11,0,Black,Solid Colors,4,0.2
+3024,302423,3024,Plate 1 x 1,7,1,Blue,Solid Colors,2,0.2
+3028,302826,3028,Plate 6 x 12,11,0,Black,Solid Colors,4,9.47
+3029,302926,3029,Plate 4 x 12,11,0,Black,Solid Colors,6,6.76
+3031,4243819,3031,Plate 4 x 4,11,0,Black,Solid Colors,1,2.22
+3032,4211115,3032,Plate 4 x 6,85,72,Dark Bluish Gray,Solid Colors,3,3.3
+3033,4541680,3033,Plate 6 x 10,7,1,Blue,Solid Colors,2,7.95
+3034,303426,3034,Plate 2 x 8,11,0,Black,Solid Colors,20,2.27
+30357,4227392,30357,"Plate, Round Corner 3 x 3",11,0,Black,Solid Colors,8,1.18
+30357,6288176,30357,"Plate, Round Corner 3 x 3",7,1,Blue,Solid Colors,6,1.18
+30357,6287664,30357,"Plate, Round Corner 3 x 3",59,320,Dark Red,Solid Colors,2,1.18
+30357,4212075,30357,"Plate, Round Corner 3 x 3",85,72,Dark Bluish Gray,Solid Colors,8,1.18
+30357,6022078,30357,"Plate, Round Corner 3 x 3",110,191,Bright Light Orange,Solid Colors,2,1.18
+30357,,30357,"Plate, Round Corner 3 x 3",9,7,Light Gray,Solid Colors,12,1.18
+30414,4143254,30414,"Brick, Modified 1 x 4 with 4 Studs on 1 Side",1,15,White,Solid Colors,1,1.7
+3045,4210646,3045,Slope 45 2 x 2 Double Convex Corner,85,72,Dark Bluish Gray,Solid Colors,2,0.9
+3049a,,3049a,Slope 45 2 x 1 Double / Inverted - with Bottom Tube,7,1,Blue,Solid Colors,2,0.49
+3068b,306801,3068b,Tile 2 x 2 with Groove,1,15,White,Solid Colors,6,0.48
+3068b,306826,3068b,Tile 2 x 2 with Groove,11,0,Black,Solid Colors,10,0.48
+3069b,306926,3069b,Tile 1 x 2 with Groove,11,0,Black,Solid Colors,4,0.26
+32013,6284699,32013,"Technic, Axle and Pin Connector Angled #1",11,0,Black,Solid Colors,8,0.46
+3460,346026,3460,Plate 1 x 8,11,0,Black,Solid Colors,8,1.36
+3460,4210998,3460,Plate 1 x 8,85,72,Dark Bluish Gray,Solid Colors,1,1.36
+3622,362223,3622,Brick 1 x 3,7,1,Blue,Solid Colors,4,1.24
+3623,362323,3623,Plate 1 x 3,7,1,Blue,Solid Colors,2,0.53
+3666,366623,3666,Plate 1 x 6,7,1,Blue,Solid Colors,4,1.06
+3710,371023,3710,Plate 1 x 4,7,1,Blue,Solid Colors,2,0.71
+3794b,379426,3794b,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)",11,0,Black,Solid Colors,2,0.3
+3795,4211002,3795,Plate 2 x 6,85,72,Dark Bluish Gray,Solid Colors,3,1.74
+3832,383223,3832,Plate 2 x 10,7,1,Blue,Solid Colors,2,2.91
+3937,393726,3937,Hinge Brick 1 x 2 Base,11,0,Black,Solid Colors,1,0.48
+3938,393826,3938,Hinge Brick 1 x 2 Top Plate,11,0,Black,Solid Colors,1,0.34
+3958,4211134,3958,Plate 6 x 6,85,72,Dark Bluish Gray,Solid Colors,8,4.71
+4162,416226,4162,Tile 1 x 8,11,0,Black,Solid Colors,1,1.06
+4162,4211008,4162,Tile 1 x 8,85,72,Dark Bluish Gray,Solid Colors,1,1.06
+4286,4211045,4286,Slope 33 3 x 1,85,72,Dark Bluish Gray,Solid Colors,2,0.98
+4287,428723,4287,"Slope, Inverted 33 3 x 1",7,1,Blue,Solid Colors,2,0.94
+43093,4184170,43093,"Technic, Axle 1 with Pin with Friction Ridges Lengthwise",11,0,Black,Solid Colors,8,0.26
+44567a,4185620,44567a,Hinge Plate 1 x 2 Locking with 1 Finger on Side with Bottom Groove,11,0,Black,Solid Colors,2,0.51
+4477,447726,4477,Plate 1 x 10,11,0,Black,Solid Colors,1,1.61
+60471,4515340,60471,Hinge Plate 1 x 2 Locking with 2 Fingers on Side and 9 Teeth,11,0,Black,Solid Colors,2,0.48
+60592,4521439,60592,Window 1 x 2 x 2 Flat Front,11,0,Black,Solid Colors,1,1.0
+6112,6175821,6112,Brick 1 x 12,7,1,Blue,Solid Colors,1,4.8
+6112,,6112,Brick 1 x 12,9,7,Light Gray,Solid Colors,2,4.8
+4073,614121,4073,"Plate, Round 1 x 1",5,4,Red,Solid Colors,2,0.12
+63864,4558170,63864,Tile 1 x 3,11,0,Black,Solid Colors,2,0.39
+6541,654126,6541,"Technic, Brick 1 x 1 with Hole",11,0,Black,Solid Colors,8,0.38
+6636,663626,6636,Tile 1 x 6,11,0,Black,Solid Colors,2,0.83
+69729,6318582,69729,Tile 2 x 6,11,0,Black,Solid Colors,4,0
+69729,6321746,69729,Tile 2 x 6,85,72,Dark Bluish Gray,Solid Colors,2,0
+75535,75619,75535,"Technic, Pin Connector Round 2L without Slot (Pin Joiner Round)",11,0,Black,Solid Colors,32,0.38
+87079,4560182,87079,Tile 2 x 4,11,0,Black,Solid Colors,80,0.9
+3062old,,3062old,"Brick, Round 1 x 1 No Bottom Lip",12,47,Trans-Clear,Transparent Colors,6,0.4
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+463,585.3599,,,,,,,,
